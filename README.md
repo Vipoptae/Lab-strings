@@ -1,4 +1,7 @@
 # Lab-strings
 
 
-from Coursera python for Data science
+from Coursera Python for Data Science and AI
+
+
+by IBM
